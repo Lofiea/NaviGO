@@ -1,0 +1,42 @@
+[
+    {
+        "country": "United States",
+        "animal": "Bald Eagle"
+    },
+    {
+        "country": "Canada",
+        "animal": "Beaver"
+    },
+    {
+        "country": "Australia",
+        "animal": "Kangaroo"
+    },
+    {
+        "country": "Japan",
+        "animal": "Red-Crowned Crane"
+    },
+    {
+        "country": "India",
+        "animal": "Bengal Tiger"
+    },
+    {
+        "country": "China",
+        "animal": "Giant Panda"
+    },
+    {
+        "country": "South Africa",
+        "animal": "Springbok"
+    },
+    {
+        "country": "Russia",
+        "animal": "Brown Bear"
+    },
+    {
+        "country": "Brazil",
+        "animal": "Jaguar"
+    },
+    {
+        "country": "Vietnam",
+        "animal": "Water Buffalo"
+    }
+]
