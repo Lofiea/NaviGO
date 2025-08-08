@@ -9,7 +9,8 @@ NaviGo is an interactive travel discovery web app that helps you explore destina
 - Responsive UI/UX with accessibility and mobile-friendly design principles.
 
 # Tech Stack & Tools
-Frontend
+Frontend:
+
 Vite – Fast development build tool
 
 React.js – Component-based UI
@@ -18,15 +19,15 @@ amCharts 5 – Interactive map and data visualization
 
 Tailwind CSS – Custom styling
 
-Backend (future integration)
+Backend (future integration):
+
 Node.js + Express.js – API development
 
 MongoDB Atlas – Destination, user, and trip data storage
 
-Development Tools
-npm – Package management
+Development Tools:
 
-ESLint + Prettier – Code linting and formatting
+npm – Package management
 
 Git & GitHub – Version control
 
